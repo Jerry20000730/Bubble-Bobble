@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.RadioButton?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="600.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.BubbleBobble.Controller.BackgroundSettingController">
+   <children>
+      <Label layoutX="80.0" layoutY="52.0" text="Choose the background image for the game">
+         <font>
+            <Font size="24.0" />
+         </font>
+      </Label>
+      <ImageView fx:id="BackgroundImage" fitHeight="340.0" fitWidth="400.0" layoutX="100.0" layoutY="100.0" pickOnBounds="true" preserveRatio="true" />
+      <Button layoutX="164.0" layoutY="543.0" mnemonicParsing="false" onMouseClicked="#OnNextButtonClicked" prefHeight="29.0" prefWidth="273.0" text="Next" />
+      <HBox alignment="CENTER" layoutX="51.0" layoutY="476.0" prefHeight="29.0" prefWidth="500.0" spacing="60.0">
+         <children>
+            <RadioButton fx:id="seaRadioButton" mnemonicParsing="false" text="Sea" />
+            <RadioButton fx:id="mountainRadioButton" mnemonicParsing="false" text="Mountain" />
+            <RadioButton fx:id="jungleRadioButton" mnemonicParsing="false" text="Jungle" />
+         </children>
+      </HBox>
+   </children>
+</Pane>

@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fcc7a190-7f3e-418c-b54a-476a147f8b14" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="BubbleBobble" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="BubbleBobble" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="BubbleBobble" type="f1a62948:ProjectNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="module-info" />
+        <option value="Interface" />
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="20V7tPcW0L8VctO5rJ0SRnOyDd6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="$PROJECT_DIR$/src/main/com.ae2dms" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/com/example/BubbleBobble/scorefile" />
+      <recent name="$PROJECT_DIR$/src/main/resources/com/example/BubbleBobble" />
+      <recent name="$PROJECT_DIR$/src/main/resources/com/example/BubbleBobble/View" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.example.BubbleBobble" />
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.BubbleBobble.Main" />
+      <module name="BubbleBobble.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fcc7a190-7f3e-418c-b54a-476a147f8b14" name="Changes" comment="" />
+      <created>1636118115336</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1636118115336</updated>
+      <workItem from="1636118118449" duration="1433000" />
+      <workItem from="1636286819625" duration="18000" />
+      <workItem from="1637141125586" duration="1657000" />
+      <workItem from="1637514242321" duration="3367000" />
+      <workItem from="1637548957446" duration="876000" />
+      <workItem from="1637549862993" duration="705000" />
+      <workItem from="1637829263223" duration="5089000" />
+      <workItem from="1637844542995" duration="1739000" />
+      <workItem from="1637996158569" duration="42000" />
+      <workItem from="1638188733331" duration="941000" />
+      <workItem from="1638547691905" duration="12000" />
+      <workItem from="1638708417368" duration="1044000" />
+      <workItem from="1638844512711" duration="9094000" />
+      <workItem from="1638870263425" duration="12000" />
+      <workItem from="1638870367981" duration="15304000" />
+      <workItem from="1638946952270" duration="39024000" />
+      <workItem from="1639058556358" duration="65177000" />
+      <workItem from="1639241077929" duration="34003000" />
+      <workItem from="1639313224383" duration="7679000" />
+      <workItem from="1639320966651" duration="60000" />
+      <workItem from="1639324082797" duration="19026000" />
+      <workItem from="1639346754743" duration="28000" />
+      <workItem from="1639346813642" duration="1022000" />
+      <workItem from="1639347922231" duration="315000" />
+      <workItem from="1639350765913" duration="48000" />
+      <workItem from="1639358155761" duration="5182000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-fxml/17-ea+11/4715e9d57cc4f7476edf6c57d3c74f8cf55ba0ea/javafx-fxml-17-ea+11-sources.jar!/javafx/fxml/FXMLLoader.java</url>
+          <line>2190</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/BubbleBobble$Main.ic" NAME="Main Coverage Results" MODIFIED="1637549227192" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

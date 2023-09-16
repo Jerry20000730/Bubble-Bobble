@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="600.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.BubbleBobble.Controller.HighScoreListController">
+   <children>
+      <Label layoutX="205.0" layoutY="58.0" text="High Score List">
+         <font>
+            <Font size="30.0" />
+         </font>
+      </Label>
+      <TableView fx:id="HighScoreList" layoutX="60.0" layoutY="110.0" prefHeight="420.0" prefWidth="480.0">
+        <columns>
+          <TableColumn fx:id="playerName" prefWidth="240.0" text="Player Name" />
+          <TableColumn fx:id="score" prefWidth="239.0" text="Score" />
+        </columns>
+      </TableView>
+      <Button layoutX="174.0" layoutY="553.0" mnemonicParsing="false" onMouseClicked="#OnBackButtonClicked" prefHeight="29.0" prefWidth="273.0" text="Back" />
+   </children>
+</Pane>

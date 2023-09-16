@@ -1,0 +1,14 @@
+module:com.example.BubbleBobble
+com.example.BubbleBobble
+com.example.BubbleBobble.Controller
+com.example.BubbleBobble.Model.Bubble
+com.example.BubbleBobble.Model.Character
+com.example.BubbleBobble.Model.Character.HeroState
+com.example.BubbleBobble.Model.Cooldown
+com.example.BubbleBobble.Model.File
+com.example.BubbleBobble.Model.InteractableWorld
+com.example.BubbleBobble.Model.Projectile
+com.example.BubbleBobble.Model.SpecialItem
+com.example.BubbleBobble.Model.SpecialItem.SpecialItemStrategy
+com.example.BubbleBobble.Model.Unit
+com.example.BubbleBobble.Model.User
